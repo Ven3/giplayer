@@ -60,3 +60,15 @@ python giplayer.py
 第3行 "hv" 两个键按下之后, 停顿pause的时间, 也就是0.5秒后会执行按键 "ezc" 操作, 而"ezc"后面带了"-"符号, 所以在"ezc"按键按下之后, 停顿0.5/2=0.25秒之后, 会执行按键"w"的操作
 
 演奏效果可以看看这个视频 [https://v.douyin.com/i2cn6RdD](https://v.douyin.com/i2cn6RdD)
+
+
+
+## 代码贡献者
+
+<a href="https://github.com/Ven3/giplayer/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Ven3/giplayer" />
+</a>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ven3/giplayer&type=Date)](https://star-history.com/#ven3/giplayer&Date)
